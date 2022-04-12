@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-12T05:45:45.568Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="juyNMs8to3WehyUUMKS7" version="17.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-12T08:25:18.416Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="HLfc_6ZrRbTs8G1FAmr_" version="17.4.2" type="github">
   <diagram id="v80K2KeV8eeGTBhuhkAK" name="Page-1">
-    <mxGraphModel dx="1422" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1422" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,7 +111,7 @@
           <mxGeometry x="315" y="270" width="20" height="260" as="geometry" />
         </mxCell>
         <mxCell id="X40300r5TWr7LcFIoUJJ-48" value="$$\hat z_{c_i}^n$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="255" y="332" width="140" height="20" as="geometry" />
+          <mxGeometry x="345" y="334" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X40300r5TWr7LcFIoUJJ-49" value="$$c_i^n\in C$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="280" y="575" width="90" height="20" as="geometry" />
@@ -120,9 +120,9 @@
           <mxGeometry x="265" y="262" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C44_3ETAinWJCx0vhQtx-2" value="$$z_{c_i}^n$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="270" y="226" width="110" height="20" as="geometry" />
+          <mxGeometry x="346" y="224" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="C44_3ETAinWJCx0vhQtx-3" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="X40300r5TWr7LcFIoUJJ-47" target="X40300r5TWr7LcFIoUJJ-48">
+        <mxCell id="C44_3ETAinWJCx0vhQtx-3" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="X40300r5TWr7LcFIoUJJ-47" target="C44_3ETAinWJCx0vhQtx-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="420" as="sourcePoint" />
             <mxPoint x="440" y="370" as="targetPoint" />
@@ -132,6 +132,12 @@
           <mxGeometry x="-0.4348" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="C44_3ETAinWJCx0vhQtx-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="285" y="230" width="85" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="C44_3ETAinWJCx0vhQtx-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="261" y="340" width="129" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
