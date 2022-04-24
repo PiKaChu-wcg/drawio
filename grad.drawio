@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-24T07:31:49.825Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="W5yaPjC1Kqz2g5RMG-gL" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-24T07:32:53.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="J_FlYTTNbkq8ci_lGO9t" version="17.4.3" type="github">
   <diagram id="vVqA8jgwHo47FBZ-bCuw" name="Page-1">
     <mxGraphModel dx="1422" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,11 +31,11 @@
         <mxCell id="E03717S-8G_PmCHJ0ev2-11" value="focal loss" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="607" y="230" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="E03717S-8G_PmCHJ0ev2-12" value="0epoch" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="20" y="351" width="60" height="20" as="geometry" />
+        <mxCell id="E03717S-8G_PmCHJ0ev2-12" value="0epoch" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="40" y="351" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="E03717S-8G_PmCHJ0ev2-13" value="1epoch" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="20" y="562" width="60" height="20" as="geometry" />
+        <mxCell id="E03717S-8G_PmCHJ0ev2-13" value="1epoch" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="40" y="565" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
