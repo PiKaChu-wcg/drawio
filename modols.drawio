@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-01T12:48:30.270Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="GppQcisRGMZJpqylSQ33" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-01T12:48:39.702Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="tO1rVhnN3eQGbYLKS371" version="17.5.0" type="github">
   <diagram id="2_KBlwJLDMebnUB4zc-V" name="Page-1">
     <mxGraphModel dx="1414" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -29,7 +29,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6Fjt5vatC2uw11u8EqC7-32" value="loss function" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="550" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="399.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6Fjt5vatC2uw11u8EqC7-35" value="gradient" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="490" y="519" width="70" height="20" as="geometry" />
